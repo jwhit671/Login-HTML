@@ -1,0 +1,17 @@
+@charset "UTF-8"
+.container {
+  margin: 50px auto;
+  width: 640px;
+  
+}
+
+  body{
+	   width: 960px;
+	   margin-left: auto;
+	   margin-right: auto;
+	   background-color:#0ca3d2;
+	   font: 13px/20px "Lucida Grande", Tahoma, Verdana, sans-serif;
+	   color: #404040;
+	   text-align: center;
+}
+
